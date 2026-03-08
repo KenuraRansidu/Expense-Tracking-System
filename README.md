@@ -28,15 +28,15 @@ expense-management-system/
 ## 📸 Screenshots
 
 ### Add / Update Expenses
-![App Frontend UI](screenshots/app_frontend_ui.png)
+![App Frontend UI](app_frontend_ui.png)
 > Add daily expenses with amount, category, and notes — all in one clean form.
 
 ### Analytics — Category Breakdown (Bar Chart)
-![Analytics UI Demo 2](screenshots/analytics_ui_demo2.png)
+![Analytics UI Demo 2](analytics_ui_demo2.png)
 > Visual bar chart showing expense breakdown by category with percentage and total.
 
 ### Analytics — Detailed Category View
-![Analytics UI Demo 1](screenshots/analytics_ui_demo1.png)
+![Analytics UI Demo 1](analytics_ui_demo1.png)
 > Detailed multi-axis analytics view showing category, percentage, and total comparisons.
 
 ---
